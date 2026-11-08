@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Saturation-Aware Dual-Domain Learning for Ptychographic Image Reconstruction"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Carson Yu
+    orcid: "https://orcid.org/0000-0002-7325-5763"
+  - family-names: Cheng
+    given-names: Jun
+    orcid: "https://orcid.org/0000-0003-1786-6188"
+  - family-names: Chen
+    given-names: Chien-Chun
+  - family-names: Shu
+    given-names: Steve F.
+    orcid: "https://orcid.org/0000-0003-1581-4405"
+repository-code: "https://github.com/carson-liu/SPLICE-Ptycho"
+license: MIT
